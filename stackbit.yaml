@@ -792,6 +792,7 @@ models:
         name: label
         label: Button
         required: true
+        default: Lear more
       - type: string
         name: url
         label: URL
