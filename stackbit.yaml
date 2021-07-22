@@ -344,7 +344,7 @@ models:
         name: date
         label: Date
         required: true
-        default: 21-
+        default: '''2021-03-26'''
       - type: reference
         name: author
         description: Post author
