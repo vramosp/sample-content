@@ -355,6 +355,9 @@ models:
         name: excerpt
         label: Excerpt
         description: The excerpt of the post displayed in the blog feed
+        default: >-
+          This is the excerpt of the blog post. It is shown in feeds and
+          sections featuring blog posts.
       - type: image
         name: image
         label: Image (single post)
