@@ -803,7 +803,7 @@ models:
           - link
           - primary
           - secondary
-        default: link
+        default: primary
       - type: boolean
         name: has_icon
         label: Show icon
