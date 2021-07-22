@@ -311,6 +311,7 @@ models:
         name: image
         label: Image
         description: The image shown below the page title
+        default: images/about.jpg
       - type: string
         name: image_alt
         label: Image Alt Text
