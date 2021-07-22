@@ -795,7 +795,7 @@ models:
         default: Learn more
       - type: string
         name: url
-        label: URL
+        label: Button
         required: true
         default: /
       - type: enum
