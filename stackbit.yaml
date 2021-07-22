@@ -339,6 +339,7 @@ models:
         name: subtitle
         label: Subtitle
         description: The text shown just below the title or the featured image
+        default: Your subtitle goes here
       - type: date
         name: date
         label: Date
