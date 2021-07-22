@@ -362,6 +362,7 @@ models:
         name: image
         label: Image (single post)
         description: The image shown below the title
+        default: images/3.jpg
       - type: string
         name: image_alt
         label: Image alt text (single post)
