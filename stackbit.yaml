@@ -805,7 +805,7 @@ models:
           - link
           - primary
           - secondary
-        default: primary
+        default: secondary
       - type: boolean
         name: has_icon
         label: Show icon
