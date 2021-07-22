@@ -790,7 +790,7 @@ models:
     fields:
       - type: string
         name: label
-        label: Label
+        label: Button
         required: true
       - type: string
         name: url
